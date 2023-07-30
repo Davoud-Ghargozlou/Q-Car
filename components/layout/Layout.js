@@ -7,7 +7,7 @@ function Layout({ children }) {
       <header className={styles.header}>
         <Link href="/">
           <h2>Q Car</h2>
-          <p>NEW DEFINE OF LUXURY</p>
+          <p>NEW DEFINITION OF LUXURY</p>
         </Link>
       </header>
       <div className={styles.container}>{children}</div>
